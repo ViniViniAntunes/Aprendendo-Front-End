@@ -187,7 +187,7 @@ const CSSCertificado = () => `
   }
 
   h1:after {
-    content: '';
+    content: '_';
   }
 
   p {
